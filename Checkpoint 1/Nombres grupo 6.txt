@@ -1,0 +1,6 @@
+Nombres grupo 6 
+
+Lara Converso, Stefany Salamanca, Natalia Garcia, Natacha Martinez
+
+Aclaraciones:
+La tabla estado hace referencia a la visibilidad si es publico o privado.
